@@ -3,7 +3,7 @@ title: Intro to Gradle
 type: Morning Exercise
 duration: "1:00"
 creator:
-    name: Melissa Arliss
+    name: MA
 ---
 
 # Intro to Gradle
