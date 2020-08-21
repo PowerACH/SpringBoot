@@ -1,8 +1,8 @@
 | Title | Type | Duration | Author |
 | -- | -- | -- | -- |
-| Spring Profiles | Lesson | 0:30 | Isha Arora |
+| Spring Profiles | Lesson | 0:30 | IA |
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Spring Profiles
+# Spring Profiles
 
 ## Learning Objectives
 
