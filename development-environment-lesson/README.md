@@ -2,7 +2,7 @@
 | -- | -- | -- | -- |
 | Spring Boot Development Environment | Lesson | 1:00 | Isha Arora |
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Spring Boot Development Environment
+# Spring Boot Development Environment
 
 ## Learning Objectives
 
