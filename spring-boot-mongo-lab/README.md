@@ -1,8 +1,8 @@
 | Title | Type | Duration | Author |
 | -- | -- | -- | -- |
-| Spring Boot MongoDB Lab | Lab | 1:30 | Isha Arora |  
+| Spring Boot MongoDB Lab | Lab | 1:30 | IA |  
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Create a Music App
+# Create a Music App
 
 We're again going to create a [Spotify](http://www.spotify.com) clone but this time we will do it using MongoDB as our database. This will be a very simple application built just for your practice. You will again work in pairs for this lab.
 
