@@ -6,7 +6,7 @@ creator:
     name: Melissa Arliss
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Gradle
+# Intro to Gradle
 
 When we first set up our development environment, one of the most important things we installed was [Maven](https://maven.apache.org/), the build tool that we've been using in all of our apps.
 
