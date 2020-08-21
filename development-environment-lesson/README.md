@@ -1,6 +1,6 @@
 | Title | Type | Duration | Author |
 | -- | -- | -- | -- |
-| Spring Boot Development Environment | Lesson | 1:00 | Isha Arora |
+| Spring Boot Development Environment | Lesson | 1:00 | IA |
 
 # Spring Boot Development Environment
 
