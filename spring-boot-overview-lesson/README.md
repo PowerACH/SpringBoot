@@ -1,8 +1,8 @@
 | Title | Type | Duration | Author |
 | -- | -- | -- | -- |
-| Spring Boot | Lesson | 1:00 | Isha Arora |
+| Spring Boot | Lesson | 1:00 | IA |
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Spring Boot
+# Spring Boot
 
 ## LEARNING OBJECTIVES
 
