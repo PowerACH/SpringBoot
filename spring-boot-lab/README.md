@@ -1,8 +1,8 @@
 | Title | Type | Duration | Author |
 | -- | -- | -- | -- |
-| Spring Boot Lab | Lab | 15:00 | Isha Arora |  
+| Spring Boot Lab | Lab | 15:00 | IA |  
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Create a Music App Lab
+# Create a Music App Lab
 
 ## Opening 
 
