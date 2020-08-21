@@ -3,10 +3,10 @@ title: MVC Design Pattern
 type: Morning Exercise
 duration: "1:00"
 creator:
-    name: Melissa Arliss
+    name: MA
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) MVC Design Pattern
+# MVC Design Pattern
 
 The **MVC design pattern** is an OG design pattern. Believe it or not, it was first introduced in the 1970s, before the internet and computers functioned in any way that's recognizable today. So, you could say it's got some legs!
 
