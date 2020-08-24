@@ -3,10 +3,10 @@ title: Dependency Injection and Inversion of Control
 type: Morning Exercise
 duration: "1:00"
 creator:
-    name: Melissa Arliss
+    name: MA
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Dependency Injection and Inversion of Control
+# Dependency Injection and Inversion of Control
 
 *"'Dependency injection' is a 25-dollar term for a 5-cent concept."*
 ([Source](https://www.jamesshore.com/Blog/Dependency-Injection-Demystified.html))
