@@ -70,7 +70,7 @@ As with many web frameworks, Spring helps us separate concerns and build applica
 
 **Spring MVC** is an MVC framework in Spring (frameworks on frameworks on frameworks) that's used for building web applications. It uses a DispatcherServlet to receive requests and map them to the best models, views, or controllers.
 
-Let's take a look at one of the Spring Boot applications we've been working on recently. With a partner, investigate the existing code to see how it maps to the MVC pattern.
+Let's take a look at a [Spring Boot application](https://github.com/angeljuarez77/spring-angular-bookstore/tree/master/server). With a partner, investigate the existing code to see how it maps to the MVC pattern.
 
 - What do you notice about how the project is set up?
 - How does the code for each component differ?
