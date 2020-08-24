@@ -90,6 +90,6 @@ We'll continue to add properties to this file in our application as we go (and a
 
 # Lab: Spring Music App
 
-You'll now work on building a back-end app incrementally. This lab has been divided into a series of steps that you'll work on as we progress. You can access the lab [here](https://git.generalassemb.ly/nyc-s1-1/spring-boot/tree/master/spring-boot-lab).
+You'll now work on building a back-end app incrementally. This lab has been divided into a series of steps that you'll work on as we progress. You can access the lab [here](https://github.com/anonymoususerdemo/spring-boot/tree/master/spring-boot-lab).
 
-For today, work on [Step 1](https://git.generalassemb.ly/nyc-s1-1/spring-boot/tree/master/spring-boot-lab#step-1-spring-boot) and [Step 2](https://git.generalassemb.ly/nyc-s1-1/spring-boot/tree/master/spring-boot-lab#step-2-spring-profile) of the given exercise.`
+For today, work on [Step 1](https://github.com/anonymoususerdemo/spring-boot/tree/master/spring-boot-lab#step-1-spring-boot) and [Step 2](https://github.com/anonymoususerdemo/spring-boot/tree/master/spring-boot-lab#step-2-spring-profile) of the given exercise.`
